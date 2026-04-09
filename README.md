@@ -54,8 +54,9 @@ Drone Platform → Camera Module → Onboard Processor → Detection Algorithm �
 * 🌉 Bridge and infrastructure assessment
 
 ## 📊 Demo
+<img width="1920" height="931" alt="Screenshot 2026-03-13 145308" src="https://github.com/user-attachments/assets/c7acdcfe-55a3-497c-bf84-1be6d34a009f" />
 
-<img width="1920" height="1080" alt="Screenshot 2026-03-13 145308" src="https://github.com/user-attachments/assets/706bb4ec-8cd2-45fe-b89b-d415f04f7c5c" />
+
 
 
 ## ⚙️ Installation & Setup
